@@ -7,5 +7,5 @@ Implementations of RL algorithms
 
 
 ## Dependencies
-1. pytorch
+1. pytorch or tensorflow
 2. openai gym
